@@ -1,0 +1,8 @@
+## NPM ##
+node_modules/
+
+## Compiled Files ##
+client/bundle.js
+
+## SENSITIVE INFO ##
+*.env

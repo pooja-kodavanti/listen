@@ -1,0 +1,13 @@
+.createPlaylist {
+  display: inline-block;
+}
+
+.genre {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.genreRow {
+  display: flex;
+  justify-content: space-around;
+}
